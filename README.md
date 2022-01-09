@@ -12,3 +12,5 @@ https://getbukkit.org/download/spigot
 https://papermc.io/downloads
 
 ./ngrok tcp 25565 or ./ngrok tcp --region ap 25565 or ./ngrok tcp --region au 25565
+
+分からない事があればTwitterのDMへ https://twitter.com/Baketu_A_b_UwU_
