@@ -1,8 +1,8 @@
 # Minecraft-server-replit
 
-手順はURL参照 
+手順は下記の動画を参照
 
-https://www.youtube.com/watch?v=Vrpacx7HXwk
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Vrpacx7HXwk/0.jpg)](https://www.youtube.com/watch?v=Vrpacx7HXwk)
 
 [ngrok](https://ngrok.com)      [spigot](https://getbukkit.org/download/spigot)      [papermc](https://papermc.io/downloads)
 
