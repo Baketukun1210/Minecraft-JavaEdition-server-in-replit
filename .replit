@@ -1,1 +1,2 @@
+language = "Nix"
 run = "bash start.sh"
