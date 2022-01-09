@@ -1,4 +1,4 @@
-# Minecraft-server-replit
+# Minecraft-JavaEdition-server-replit
 ![Run on Replit](https://replit.com/badge/github/Baketukun1210/Minecraft-server-replit)
 
 手順は下記の動画を参照(EN)
