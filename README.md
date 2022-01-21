@@ -11,4 +11,4 @@
 
 ./ngrok tcp 25565 or ./ngrok tcp --region ap 25565 or ./ngrok tcp --region au 25565
 
-分からない事があれば[Twitter](https://twitter.com/Baketu_A_b_UwU_)のDMへ 
+分からない事があれば[Twitter](https://twitter.com/Baketu_A_b)のDMへ 
